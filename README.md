@@ -19,7 +19,6 @@ Cada calculadora és un fitxer HTML autònom i està dissenyada perquè sigui c�
 | Eina | Descripció |
 |---|---|
 | 📐 **Calculadora de projecció** | Calcula amplada, distància o relació de tir. Inclou formats 16:9 i 16:10, alçada i diagonal resultants. |
-| 🧩 **Blending bàsic** | Estimació ràpida del nombre de projectors, l'amplada per projector i el solapament físic necessari. |
 | 🖥️ **Blending avançat** | Calcula la resolució efectiva d'un canvas amb diversos projectors, l'orientació i el blend en píxels. |
 | 💡 **Lúmens per entorn** | Relaciona lúmens, superfície i lux per treballar en cinema, corporatiu o exterior. |
 | 🏛️ **Lúmens per façana** | Calcula cobertura, geometria projectada, blending i lux en projecció arquitectònica. |
