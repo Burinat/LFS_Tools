@@ -1,6 +1,6 @@
 # LFS Tools
 
-> Eines tècniques ràpides per a audiovisual, projecció, vídeo, àudio i il·luminació.
+> Eines tècniques ràpides per al Tècnic Audiovisual.
 
 [![HTML5](https://img.shields.io/badge/HTML5-structure-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-responsive-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
