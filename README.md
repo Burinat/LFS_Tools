@@ -2,7 +2,9 @@
 
 > Eines tècniques ràpides per a audiovisual, projecció, vídeo, àudio i il·luminació.
 
-[![HTML](https://img.shields.io/badge/HTML-standalone-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
+[![HTML5](https://img.shields.io/badge/HTML5-structure-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-responsive-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-calculations-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
 [![Mobile friendly](https://img.shields.io/badge/disseny-mobile--friendly-4ED9B5)](#)
 [![License](https://img.shields.io/badge/ús-personal%20i%20professional-82ADFF)](#)
 
