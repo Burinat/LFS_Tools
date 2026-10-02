@@ -12,7 +12,7 @@
 
 **LFS Tools** és una col·lecció d'eines web lleugeres pensades per resoldre càlculs habituals de producció tècnica. Funciona directament al navegador, sense instal·lació, servidor ni dependències de framework.
 
-Cada calculadora és un fitxer HTML autònom i està dissenyada perquè sigui còmoda tant en ordinador com en pantalles petites.
+Cada eina és una aplicació web estàtica i autònoma: HTML per a l’estructura, CSS per al disseny responsiu i JavaScript per als càlculs i la interacció.
 
 ## 🧰 Eines incloses
 
