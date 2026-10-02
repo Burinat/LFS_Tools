@@ -47,14 +47,6 @@ Cada calculadora és un fitxer HTML autònom i està dissenyada perquè sigui c�
 
 > ℹ️ No cal instal·lar res: totes les calculadores s'executen localment al navegador.
 
-## 🌐 Publicar amb GitHub Pages
-
-1. Puja tots els fitxers descomprimits al repositori, amb `index.html` a l'arrel.
-2. Ves a **Settings → Pages**.
-3. A **Build and deployment**, selecciona **Deploy from a branch**.
-4. Escull la branca `main` i la carpeta `/(root)`.
-5. Desa els canvis i espera que GitHub indiqui l'adreça pública del lloc.
-
 ## 📁 Estructura prevista
 
 ```text
